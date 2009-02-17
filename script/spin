@@ -5,4 +5,5 @@
   --environment=production \
   --instances=1 \
   --address=127.0.0.1 \
-  --port=8000
+  --port=8000 \
+  --log /var/www/current/log/mongrel.log
