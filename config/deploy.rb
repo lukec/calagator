@@ -6,8 +6,7 @@ set :repository,  "git@github.com:lukec/calagator.git"
 # via the :deploy_to variable:
 set :deploy_to, "/var/www"
 
-# If you aren't using Subversion to manage your source code, specify
-# your SCM below:
+set :runner, "lukec"
 set :scm, :git
 
 role :app, "cal.wikrad.com"
