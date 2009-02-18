@@ -21,5 +21,5 @@ test:
   << : *common
 
 production:
-  database: db/production.sqlite3
+  database: /var/www/production.sqlite3
   << : *common
