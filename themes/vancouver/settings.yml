@@ -1,11 +1,11 @@
 # Site's name:
-name: 'Calagator'
+name: 'VanCalagator'
 
 # Site's tagline:
-tagline: "Portland's Tech Calendar"
+tagline: "Vancouver's Tech Calendar"
 
 # Site's URL with trailing slash:
-url: 'http://calagator.org/'
+url: 'http://cal.wikrad.com/'
 
 # Deault timezone, run "rake time:zones:all" for options:
 timezone: 'Pacific Time (US & Canada)'
