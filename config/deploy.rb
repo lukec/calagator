@@ -1,4 +1,4 @@
-set :application, "VanCalagator"
+set :application, "vancal.org"
 set :repository,  "git@github.com:lukec/calagator.git"
 
 # If you aren't deploying to /u/apps/#{application} on the target
